@@ -1,0 +1,15 @@
+{
+  "name": "grid-challenge",
+  "version": "1.0.0",
+  "description": "building 2D matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "grid",
+    "challenge"
+  ],
+  "author": "Kristin Treder",
+  "license": "ISC"
+}
